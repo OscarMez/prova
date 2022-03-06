@@ -1,5 +1,1 @@
-package desenvolupament;
-
-public class prova {
-
-}
+System.out.println("Hola Mundo!");
